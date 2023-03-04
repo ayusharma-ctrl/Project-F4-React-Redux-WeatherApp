@@ -9,7 +9,7 @@ function App() {
     //these are routes
     <Router>
       <Routes>
-        <Route path="/" element={<Searchbar/>}/>
+        <Route path="/Project-F4-React-Redux-WeatherApp" element={<Searchbar/>}/>
         <Route path="/weather/:cityName" element={<Result/>}/>
       </Routes>
     </Router>
