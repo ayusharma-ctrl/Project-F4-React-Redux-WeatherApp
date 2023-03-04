@@ -18,7 +18,7 @@ const Result = () => {
         <Data />
       </div>
       <div>
-        <Link to='/'> <button type="submit" id='goBackBtn'>Go Back</button> </Link>
+        <Link to='/Project-F4-React-Redux-WeatherApp'> <button type="submit" id='goBackBtn'>Go Back</button> </Link>
       </div>
     </div>
   )
