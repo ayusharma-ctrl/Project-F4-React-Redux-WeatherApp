@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Project-F4-React-Redux-WeatherApp/static/css/main.09900a49.css",
-    "main.js": "/Project-F4-React-Redux-WeatherApp/static/js/main.04acdd60.js",
+    "main.js": "/Project-F4-React-Redux-WeatherApp/static/js/main.d0ae1f4a.js",
     "index.html": "/Project-F4-React-Redux-WeatherApp/index.html",
     "main.09900a49.css.map": "/Project-F4-React-Redux-WeatherApp/static/css/main.09900a49.css.map",
-    "main.04acdd60.js.map": "/Project-F4-React-Redux-WeatherApp/static/js/main.04acdd60.js.map"
+    "main.d0ae1f4a.js.map": "/Project-F4-React-Redux-WeatherApp/static/js/main.d0ae1f4a.js.map"
   },
   "entrypoints": [
     "static/css/main.09900a49.css",
-    "static/js/main.04acdd60.js"
+    "static/js/main.d0ae1f4a.js"
   ]
 }
