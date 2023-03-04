@@ -1,0 +1,16 @@
+.data {
+    border: 2px solid black;
+}
+
+.dataContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.dataContainer > div > span {
+    font-weight: 600;
+    font-size: 1.2rem;
+}

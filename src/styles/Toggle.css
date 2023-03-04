@@ -1,0 +1,53 @@
+.containerToggle {
+    display: flex;
+    align-items: center;   
+}
+
+.containerToggle > div {
+    margin-left: 20px;
+    font-size: 1.2rem;
+}
+
+.toggle-switch {
+    position: relative;
+    display: inline-block;
+    width: 62px;
+    height: 34px;
+  }
+  
+  .toggle-switch input {
+    display: none;
+  }
+  
+  .toggle-switch-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    transition: 0.4s;
+    border: 1px solid black;
+    border-radius: 34px;
+  }
+  
+  .toggle-switch-slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: black;
+    transition: 0.4s;
+    border-radius: 50%;
+  }
+  
+  .toggle-switch input:checked + .toggle-switch-slider {
+    background-color: tomato;
+  }
+  
+  .toggle-switch input:checked + .toggle-switch-slider:before {
+    transform: translateX(26px);
+  }  
