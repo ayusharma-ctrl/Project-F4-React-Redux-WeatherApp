@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Project-F4-React-Redux-WeatherApp/static/css/main.09900a49.css",
+    "main.js": "/Project-F4-React-Redux-WeatherApp/static/js/main.1692c4f0.js",
+    "index.html": "/Project-F4-React-Redux-WeatherApp/index.html",
+    "main.09900a49.css.map": "/Project-F4-React-Redux-WeatherApp/static/css/main.09900a49.css.map",
+    "main.1692c4f0.js.map": "/Project-F4-React-Redux-WeatherApp/static/js/main.1692c4f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09900a49.css",
+    "static/js/main.1692c4f0.js"
+  ]
+}
